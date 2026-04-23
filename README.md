@@ -1,9 +1,3 @@
-To align with your updated `API_Ingestor.py`, the **README.md** needs to reflect the shift toward a CSV-driven metadata workflow and the specific method names you've implemented (e.g., using `apply_column_mapping` instead of individual transformation calls).
-
-Here is the updated version:
-
----
-
 # MS_Fabric_Ingestor
 ### *A Metadata-Driven Data Engineering Framework for Microsoft Fabric*
 
